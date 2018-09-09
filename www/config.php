@@ -1,4 +1,4 @@
 <?php
  $USERNAME = oleg;
- $PASSWORD = 1234;
+ $PASSWORD = 1234;//
  ?>
